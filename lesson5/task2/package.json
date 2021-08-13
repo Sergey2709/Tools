@@ -1,11 +1,10 @@
 {
-  "name": "task1",
+  "name": "task2",
   "version": "1.0.0",
   "description": "webpack cli",
   "main": "index.js",
   "scripts": {
-    "build:scripts": "webpack",
-    "watch:scripts": "webpack -d --watch --devtool eval-source-maps"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
