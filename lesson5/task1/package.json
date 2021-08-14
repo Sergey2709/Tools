@@ -4,7 +4,7 @@
   "description": "webpack cli",
   "main": "index.js",
   "scripts": {
-    "build:scripts": "webpack",
+    "build:scripts": "webpack -production",
     "watch:scripts": "webpack -d --watch --devtool eval-source-maps"
   },
   "keywords": [],
